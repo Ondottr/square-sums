@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/test",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ondottr",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "symfony/var-dumper": "^5.2",
+    "symfony/error-handler": "^5.2"
+  }
+}
